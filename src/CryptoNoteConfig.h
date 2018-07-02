@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "HCXPAY";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001ee01029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210139239cd8b8a1aa66ea139c9d6dab6ee2f01a011cef31e1477a9370317760f523";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff000101029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101b0236698ea548d2ba7d67900dc87e4a6b83c7499a4b201ff3d884f6736918c81";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
